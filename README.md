@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kto-ty-felis-cactus
+- 👋 Hi, I’m @Sunny-coder-felis-cactus
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Python but i want to learn something else
 - 💞️ I’m looking to collaborate on (i don't know what to write here)
